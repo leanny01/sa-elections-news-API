@@ -1,0 +1,24 @@
+{
+  "name": "sa-elections-on-the-web",
+  "version": "1.0.0",
+  "description": "A web scraper to get latest south african elections news on the web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Web scraper",
+    "news",
+    "South Africa",
+    "elections"
+  ],
+  "author": "Dibwe Kalangu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
