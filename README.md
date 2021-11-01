@@ -13,7 +13,7 @@ An API that delivers South African news from locals and all over the world news 
 3. Open  http://localhost:8000/news with your browser to see the result of the scrape.
 4. Open http://localhost:8000/news/`:sourceName` with your browser to see the result of the scrape from diferent sources, see example bellow:
 
-> * __Source__: __Aljazeera__: http://localhost:8000/news/Aljazeera
-> * __Source__: __IOL__: http://localhost:8000/news/iol
-> * __Source__: __The conversation__: http://localhost:8000/news/theconversation
-> * __Source__: __businesstech__: http://localhost:8000/news/businesstech
+> * __Source__: `Aljazeera` __Link__: http://localhost:8000/news/Aljazeera
+> * __Source__: `IOL` __Link__:http://localhost:8000/news/iol
+> * __Source__: `The conversation` __Link__: http://localhost:8000/news/theconversation
+> * __Source__: `businesstech` __Link__: http://localhost:8000/news/businesstech
